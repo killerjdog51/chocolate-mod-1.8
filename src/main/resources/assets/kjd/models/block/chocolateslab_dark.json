@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "kjd:blocks/darkslab_top",
+        "side": "kjd:blocks/darkslab_side"
+    }
+}

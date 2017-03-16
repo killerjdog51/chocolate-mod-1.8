@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "kjd:blocks/brick_white",
+        "side": "kjd:blocks/brick_white"
+    }
+}

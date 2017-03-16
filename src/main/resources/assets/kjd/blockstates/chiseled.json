@@ -1,0 +1,10 @@
+{
+    "variants":{
+        "type=default":{ "model":"kjd:chiseled_default" },
+        "type=dark":{ "model":"kjd:chiseled_dark" },
+        "type=light":{ "model":"kjd:chiseled_light" },
+        "type=white":{ "model":"kjd:chiseled_white" },
+        "type=raw":{ "model":"kjd:chiseled_raw" }
+        
+    }
+}

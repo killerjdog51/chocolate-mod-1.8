@@ -1,0 +1,10 @@
+{
+    "variants":{
+        "type=default":{ "model":"kjd:etched_default" },
+        "type=dark":{ "model":"kjd:etched_dark" },
+        "type=light":{ "model":"kjd:etched_light" },
+        "type=white":{ "model":"kjd:etched_white" },
+        "type=raw":{ "model":"kjd:etched_raw" }
+        
+    }
+}

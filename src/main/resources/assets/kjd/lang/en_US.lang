@@ -1,0 +1,129 @@
+itemGroup.tabChocolateBlocks=Chocolate Blocks
+itemGroup.tabChocolateFood=Chocolate Food
+
+tile.chocolateblock.default.name=Chocolate Block
+tile.chocolateblock.dark.name=Dark Chocolate Block
+tile.chocolateblock.light.name=Light Chocolate Block
+tile.chocolateblock.white.name=White Chocolate Block
+tile.chocolateblock.raw.name=Extra Dark Chocolate Block
+
+tile.fruitblock.default.name=Fruity Chocolate Block
+tile.fruitblock.dark.name=Fruity Dark Chocolate Block
+tile.fruitblock.light.name=Fruity Light Chocolate Block
+tile.fruitblock.white.name=Fruity White Chocolate Block
+tile.fruitblock.raw.name=Fruity Extra Dark Chocolate Block
+
+tile.nutblock.default.name=Nutty Chocolate Block
+tile.nutblock.dark.name=Nutty Dark Chocolate Block
+tile.nutblock.light.name=Nutty Light Chocolate Block
+tile.nutblock.white.name=Nutty White Chocolate Block
+tile.nutblock.raw.name=Nutty Extra Dark Chocolate Block
+
+tile.mintblock.default.name=Minty Chocolate Block
+tile.mintblock.dark.name=Minty Dark Chocolate Block
+tile.mintblock.light.name=Minty Light Chocolate Block
+tile.mintblock.white.name=Minty White Chocolate Block
+tile.mintblock.raw.name=Minty Extra Dark Chocolate Block
+
+tile.brick.default.name=Large Chocolate Bricks
+tile.brick.dark.name=Large Dark Chocolate Bricks
+tile.brick.light.name=Large Light Chocolate Bricks
+tile.brick.white.name=Large White Chocolate Bricks
+tile.brick.raw.name=Large Extra Dark Chocolate Bricks
+
+tile.hard.default.name=Hardened Chocolate Block 
+tile.hard.dark.name=Hardened Chocolate Block 
+tile.hard.light.name=Hardened Chocolate Block 
+tile.hard.white.name=Hardened Chocolate Block 
+tile.hard.raw.name=Hardened Chocolate Block 
+
+tile.etched.default.name=Etched Chocolate Block
+tile.etched.dark.name=Etched Dark Chocolate Block
+tile.etched.light.name=Etched Light Chocolate Block 
+tile.etched.white.name=Etched White Chocolate Block 
+tile.etched.raw.name=Etched Extra Dark Chocolate Block 
+
+tile.roundbrick.default.name=Carved Chocolate Bricks
+tile.roundbrick.dark.name=Carved Dark Chocolate Bricks
+tile.roundbrick.light.name=Carved Light Chocolate Bricks
+tile.roundbrick.white.name=Carved White Chocolate Bricks
+tile.roundbrick.raw.name=Carved Extra Dark Chocolate Bricks
+
+tile.smallbrick.default.name=Chocolate Bricks
+tile.smallbrick.dark.name=Dark Chocolate Bricks
+tile.smallbrick.light.name=Light Chocolate Bricks
+tile.smallbrick.white.name=White Chocolate Bricks
+tile.smallbrick.raw.name=Extra Dark Chocolate Bricks
+
+tile.fancybrick.default.name=Fancy Carved Chocolate Bricks
+tile.fancybrick.dark.name=Fancy Carved Dark Chocolate Bricks
+tile.fancybrick.light.name=Fancy Carved Light Chocolate Bricks
+tile.fancybrick.white.name=Fancy Carved White Chocolate Bricks
+tile.fancybrick.raw.name=Fancy Carved Extra Dark Chocolate Bricks
+
+tile.chiseled.default.name=Chiseled Chocolate Block
+tile.chiseled.dark.name=Chiseled Dark Chocolate Block
+tile.chiseled.light.name=Chiseled Light Chocolate Block
+tile.chiseled.white.name=Chiseled White Chocolate Block
+tile.chiseled.raw.name=Chiseled Raw Chocolate Block
+
+tile.chocolatestair_default.name=Chocolate Stairs
+tile.chocolatestair_dark.name=Dark Chocolate Stairs
+tile.chocolatestair_light.name=Light Chocolate Stairs
+tile.chocolatestair_white.name=White Chocolate Stairs
+tile.chocolatestair_raw.name=Extra Dark Chocolate Stairs
+
+tile.brickstair_default.name=Large Chocolate Brick Stairs
+tile.brickstair_dark.name=Large Dark Chocolate Brick Stairs
+tile.brickstair_light.name=Large Light Chocolate Brick Stairs
+tile.brickstair_white.name=Large White Chocolate Brick Stairs
+tile.brickstair_raw.name=Large Extra Dark Chocolate Brick Stairs
+
+tile.smallbrickstair_default.name=Chocolate Brick Stairs
+tile.smallbrickstair_dark.name=Dark Chocolate Brick Stairs
+tile.smallbrickstair_light.name=Light Chocolate Brick Stairs
+tile.smallbrickstair_white.name=White Chocolate Brick Stairs
+tile.smallbrickstair_raw.name=Extra Dark Chocolate Brick Stairs
+
+tile.chocolateslab_default.name=Chocolate Slab
+tile.chocolateslab_dark.name=Dark Chocolate Slab
+tile.chocolateslab_light.name=Light Chocolate Slab
+tile.chocolateslab_white.name=White Chocolate Slab
+tile.chocolateslab_raw.name=Extra Dark Chocolate Slab
+
+tile.brickslab_default.name=Large Chocolate Brick Slab
+tile.brickslab_dark.name=Large Dark Chocolate Brick Slab
+tile.brickslab_light.name=Large Light Chocolate Brick Slab
+tile.brickslab_white.name=Large White Chocolate Brick Slab
+tile.brickslab_raw.name=Large Extra Dark Chocolate Brick Slab
+
+tile.smallslab_default.name=Chocolate Brick Slab
+tile.smallslab_dark.name=Dark Chocolate Brick Slab
+tile.smallslab_light.name=Light Chocolate Brick Slab
+tile.smallslab_white.name=White Chocolate Brick Slab
+tile.smallslab_raw.name=Extra Dark Chocolate Brick Slab
+
+
+item.chocolatebar.default.name=Chocolate Bar
+item.chocolatebar.dark.name=Dark Chocolate Bar
+item.chocolatebar.light.name=Light Chocolate Bar
+item.chocolatebar.white.name=White Chocolate Bar
+item.chocolatebar.raw.name=Extra Dark Chocolate Bar
+
+item.fruitbar.default.name=Fruity Chocolate Bar
+item.fruitbar.dark.name=Fruity Dark Chocolate Bar
+item.fruitbar.light.name=Fruity Light Chocolate Bar
+item.fruitbar.white.name=Fruity White Chocolate Bar
+item.fruitbar.raw.name=Fruity Extra Dark Chocolate Bar
+
+item.nutbar.default.name=Nutty Chocolate Bar
+item.nutbar.dark.name=Nutty Dark Chocolate Bar
+item.nutbar.light.name=Nutty Light Chocolate Bar
+item.nutbar.white.name=Nutty White Chocolate Bar
+item.nutbar.raw.name=Nutty Extra Dark Chocolate Bar
+
+item.mintbar.default.name=Minty Chocolate Bar
+item.mintbar.dark.name=Minty Dark Chocolate Bar
+item.mintbar.light.name=Minty Light Chocolate Bar
+item.mintbar.white.name=Minty White Chocolate Bar
+item.mintbar.raw.name=Minty Extra Dark Chocolate Bar

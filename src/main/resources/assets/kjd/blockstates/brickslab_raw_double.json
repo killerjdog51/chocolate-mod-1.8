@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=false": { "model": "kjd:brickslab_raw" },
+        "variant=true":    { "model": "kjd:brickslab_raw" }
+    }
+}

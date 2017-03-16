@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=false": { "model": "kjd:halfslab_chocolate_light" },
+        "half=top,variant=false": { "model": "kjd:upperslab_chocolate_light" }
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=false": { "model": "kjd:smallslab_raw" },
+        "variant=true":    { "model": "kjd:smallslab_raw" }
+    }
+}

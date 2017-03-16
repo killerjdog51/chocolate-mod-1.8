@@ -1,0 +1,8 @@
+{
+    "parent": "block/half_slab",
+    "textures": {
+        "bottom": "kjd:blocks/small_white",
+        "top": "kjd:blocks/small_white",
+        "side": "kjd:blocks/small_white"
+    }
+}

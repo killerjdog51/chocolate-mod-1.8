@@ -1,0 +1,8 @@
+{
+    "parent": "block/outer_stairs",
+    "textures": {
+        "bottom": "kjd:blocks/hard_dark",
+        "top": "kjd:blocks/hard_dark",
+        "side": "kjd:blocks/hard_dark"
+    }
+}

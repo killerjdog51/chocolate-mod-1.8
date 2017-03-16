@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=false": { "model": "kjd:halfslab_small_default" },
+        "half=top,variant=false": { "model": "kjd:upperslab_small_default" }
+    }
+}

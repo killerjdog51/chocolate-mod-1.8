@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "side": "kjd:blocks/chiseled_light",
+        "end": "kjd:blocks/chiseled_light_top"
+    }
+}

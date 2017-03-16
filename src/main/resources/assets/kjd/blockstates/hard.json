@@ -1,0 +1,10 @@
+{
+    "variants":{
+        "type=default":{ "model":"kjd:hard_default" },
+        "type=dark":{ "model":"kjd:hard_dark" },
+        "type=light":{ "model":"kjd:hard_light" },
+        "type=white":{ "model":"kjd:hard_white" },
+        "type=raw":{ "model":"kjd:hard_raw" }
+        
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "kjd:blocks/brick_dark",
+        "top": "kjd:blocks/brick_dark",
+        "side": "kjd:blocks/brick_dark"
+    }
+}

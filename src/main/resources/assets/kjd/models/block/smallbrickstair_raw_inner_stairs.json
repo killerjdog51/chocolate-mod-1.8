@@ -1,0 +1,8 @@
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "kjd:blocks/small_raw",
+        "top": "kjd:blocks/small_raw",
+        "side": "kjd:blocks/small_raw"
+    }
+}

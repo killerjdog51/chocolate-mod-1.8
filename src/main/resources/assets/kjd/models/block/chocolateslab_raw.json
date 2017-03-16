@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "kjd:blocks/rawslab_top",
+        "side": "kjd:blocks/rawslab_side"
+    }
+}

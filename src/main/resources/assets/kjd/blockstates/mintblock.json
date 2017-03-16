@@ -1,0 +1,9 @@
+{
+    "variants":{
+        "type=default":{ "model":"kjd:mint_default" },
+        "type=dark":{ "model":"kjd:mint_dark" },
+        "type=light":{ "model":"kjd:mint_light" },
+        "type=white":{ "model":"kjd:mint_white" },
+	"type=raw":{ "model":"kjd:mint_raw" }
+    }
+}

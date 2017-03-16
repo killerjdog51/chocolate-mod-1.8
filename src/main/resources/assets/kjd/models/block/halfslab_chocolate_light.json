@@ -1,0 +1,8 @@
+{
+    "parent": "block/half_slab",
+    "textures": {
+        "bottom": "kjd:blocks/lightslab_top",
+        "top": "kjd:blocks/lightslab_top",
+        "side": "kjd:blocks/lightslab_side"
+    }
+}

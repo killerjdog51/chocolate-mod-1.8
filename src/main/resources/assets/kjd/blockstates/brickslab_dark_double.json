@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=false": { "model": "kjd:brickslab_dark" },
+        "variant=true":    { "model": "kjd:brickslab_dark" }
+    }
+}

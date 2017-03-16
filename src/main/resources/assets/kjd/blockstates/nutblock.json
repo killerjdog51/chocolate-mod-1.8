@@ -1,0 +1,9 @@
+{
+    "variants":{
+        "type=default":{ "model":"kjd:nut_default" },
+        "type=dark":{ "model":"kjd:nut_dark" },
+        "type=light":{ "model":"kjd:nut_light" },
+        "type=white":{ "model":"kjd:nut_white" },
+	"type=raw":{ "model":"kjd:nut_raw" }
+    }
+}

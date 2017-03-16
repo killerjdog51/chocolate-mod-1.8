@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "kjd:blocks/small_dark",
+        "side": "kjd:blocks/small_dark"
+    }
+}

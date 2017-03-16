@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=false": { "model": "kjd:chocolateslab_white" },
+        "variant=true":    { "model": "kjd:chocolateslab_white" }
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "variants":{
+        "type=default":{ "model":"kjd:Fbrick_default" },
+        "type=dark":{ "model":"kjd:Fbrick_dark" },
+        "type=light":{ "model":"kjd:Fbrick_light" },
+        "type=white":{ "model":"kjd:Fbrick_white" },
+        "type=raw":{ "model":"kjd:Fbrick_raw" }
+        
+    }
+}
