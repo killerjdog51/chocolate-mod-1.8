@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "stage=0": { "model": "kjd:milkcauldron_lightmilk" },
+        "stage=1": { "model": "kjd:lightcauldron_chocolate1" },
+        "stage=2": { "model": "kjd:lightcauldron_chocolate2" },
+        "stage=3": { "model": "kjd:lightcauldron_chocolate2" },
+        "stage=4": { "model": "kjd:lightcauldron_chocolate2" },
+        "stage=5": { "model": "kjd:lightcauldron_chocolatemilk" },
+        "stage=6": { "model": "kjd:lightcauldron_chocolate3" },
+        "stage=7": { "model": "kjd:lightcauldron_chocolate4" },
+        "stage=8": { "model": "kjd:lightcauldron_chocolate4" },
+        "stage=9": { "model": "kjd:lightcauldron_chocolate4" },
+        "stage=10": { "model": "kjd:lightcauldron_darkmilk" },
+	"stage=11": { "model": "kjd:lightcauldron_milk1" },
+	"stage=12": { "model": "kjd:lightcauldron_milk2" },
+	"stage=13": { "model": "kjd:lightcauldron_milk2" },
+	"stage=14": { "model": "kjd:lightcauldron_milk2" },
+	"stage=15": { "model": "kjd:lightcauldron_whitemilk" }
+    }
+}

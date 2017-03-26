@@ -1,5 +1,31 @@
 itemGroup.tabChocolateBlocks=Chocolate Blocks
 itemGroup.tabChocolateFood=Chocolate Food
+itemGroup.tabChocolateMisc=Chocolate Items
+
+achievement.cocoabean=The 'Secret' Ingredient
+achievement.cocoabean.desc=Find Cocoa Beans
+achievement.cocoapowder=Ground it up
+achievement.cocoapowder.desc=Craft Cocoa Powder
+achievement.chocolatemilk=Can I Drink it?
+achievement.chocolatemilk.desc=Brew Chocolate Milk
+achievement.chocolatebar=Nom Nom Nom
+achievement.chocolatebar.desc=Make a Chocolate Bar
+achievement.chocolateball=Now we're Rolling
+achievement.chocolateball.desc=Make a Chocolate Ball
+achievement.additions=Simply Additions
+achievement.additions.desc=Craft Fruity, Nutty, or Minty Chocolate
+achievement.cookiebar=Mmmm Creamy!
+achievement.cookiebar.desc=Craft a Cookies & Cream Bar
+achievement.goldchocolatebar=Is Shiny Edible?
+achievement.goldchocolatebar.desc=Craft a Gold Chocolate Bar
+achievement.chocolateblock=CHOCOLATE!!!!!
+achievement.chocolateblock.desc=Craft a Chocolate Block
+achievement.cookieworld=Cookie Land!
+achievement.cookieworld.desc=Not Yet Available
+achievement.chocolateworld=It's a Chocolaty World!
+achievement.chocolateworld.desc=Not Yet Available
+achievement.building=Chocolate Builder
+achievement.building.desc=Craft Chocolate Bricks
 
 tile.chocolateblock.default.name=Chocolate Block
 tile.chocolateblock.dark.name=Dark Chocolate Block
@@ -24,6 +50,9 @@ tile.mintblock.dark.name=Minty Dark Chocolate Block
 tile.mintblock.light.name=Minty Light Chocolate Block
 tile.mintblock.white.name=Minty White Chocolate Block
 tile.mintblock.raw.name=Minty Extra Dark Chocolate Block
+
+tile.cookiescreamblock.name=Cookies & Cream Block
+tile.goldchocolate.name=Gold Chocolate Block
 
 tile.brick.default.name=Large Chocolate Bricks
 tile.brick.dark.name=Large Dark Chocolate Bricks
@@ -103,6 +132,9 @@ tile.smallslab_light.name=Light Chocolate Brick Slab
 tile.smallslab_white.name=White Chocolate Brick Slab
 tile.smallslab_raw.name=Extra Dark Chocolate Brick Slab
 
+tile.barmold.name=Chocolate Bar Mold
+tile.ballmold.name=Chocolate Ball Mold
+
 
 item.chocolatebar.default.name=Chocolate Bar
 item.chocolatebar.dark.name=Dark Chocolate Bar
@@ -127,3 +159,44 @@ item.mintbar.dark.name=Minty Dark Chocolate Bar
 item.mintbar.light.name=Minty Light Chocolate Bar
 item.mintbar.white.name=Minty White Chocolate Bar
 item.mintbar.raw.name=Minty Extra Dark Chocolate Bar
+
+item.chocolateball.default.name=Chocolate Ball
+item.chocolateball.dark.name=Dark Chocolate Ball
+item.chocolateball.light.name=Light Chocolate Ball
+item.chocolateball.white.name=White Chocolate Ball
+item.chocolateball.raw.name=Extra Dark Chocolate Ball
+
+item.fruitball.default.name=Fruity Chocolate Ball
+item.fruitball.dark.name=Fruity Dark Chocolate Ball
+item.fruitball.light.name=Fruity Light Chocolate Ball
+item.fruitball.white.name=Fruity White Chocolate Ball
+item.fruitball.raw.name=Fruity Extra Dark Chocolate Ball
+
+item.nutball.default.name=Nutty Chocolate Ball
+item.nutball.dark.name=Nutty Dark Chocolate Ball
+item.nutball.light.name=Nutty Light Chocolate Ball
+item.nutball.white.name=Nutty White Chocolate Ball
+item.nutball.raw.name=Nutty Extra Dark Chocolate Ball
+
+item.mintball.default.name=Minty Chocolate Ball
+item.mintball.dark.name=Minty Dark Chocolate Ball
+item.mintball.light.name=Minty Light Chocolate Ball
+item.mintball.white.name=Minty White Chocolate Ball
+item.mintball.raw.name=Minty Extra Dark Chocolate Ball
+
+item.cocoapowder.name=Cocoa Powder
+item.cookiesCream.name=Cookies & Cream Bar
+item.goldchocolate.name=Golden Chocolate Bar
+
+item.bowlmilk.name=Bowl of Milk
+item.bowllightmilk.name=Bowl of Light Chocolate Milk
+item.bowlwhitemilk.name=Bowl of White Chocolate Milk
+item.bowlchocolatemilk.name=Bowl of Chocolate Milk
+item.bowldarkmilk.name=Bowl of Dark Chocolate Milk
+item.bowlrawmilk.name=Bowl of Extra Dark Chocolate Milk
+
+item.bowlwarmchocolatemilk.name=Warm Bowl of Chocolate Milk
+item.bowlwarmdarkmilk.name=Warm Bowl of Dark Chocolate Milk
+item.bowlwarmlightmilk.name=Warm Bowl of Light Chocolate Milk
+item.bowlwarmwhitemilk.name=Warm Bowl of White Chocolate Milk
+item.bowlwarmrawmilk.name=Warm Bowl of Extra Dark Chocolate Milk

@@ -3,6 +3,7 @@ package com.chocolatemod.init;
 import com.chocolatemod.blocks.BlockDoubleSlab;
 import com.chocolatemod.blocks.BlockHalfSlab;
 import com.chocolatemod.blocks.BlockProperties;
+import com.chocolatemod.blocks.BlockPropertiesMeta;
 import com.chocolatemod.blocks.BlockStair;
 import com.chocolatemod.blocks.Blockslab;
 import com.chocolatemod.main.MainRegistry;
@@ -22,6 +23,8 @@ public class ChocolateBlocks {
 	public static Block fruitBlock;
 	public static Block nutBlock;
 	public static Block mintBlock;
+	public static Block cookiesCream;
+	public static Block goldChocolate;
 	public static Block hardChocolate;
 	public static Block etched;
 	public static Block brick;
@@ -81,17 +84,19 @@ public class ChocolateBlocks {
 
 	public static void init() {
 		
-		chocolateBlock = new BlockProperties("chocolateblock", Material.rock, 3, 5);
-		fruitBlock = new BlockProperties("fruitblock", Material.rock, 3, 5);
-		nutBlock = new BlockProperties("nutblock", Material.rock, 3, 5);
-		mintBlock = new BlockProperties("mintblock", Material.rock, 3, 5);
-		hardChocolate = new BlockProperties("hard", Material.rock, 3, 5);
-		etched = new BlockProperties("etched", Material.rock, 3, 5);
-		brick = new BlockProperties("brick", Material.rock, 3, 5);
-		roundBrick = new BlockProperties("roundbrick", Material.rock, 3, 5);
-		smallBrick = new BlockProperties("smallbrick", Material.rock, 3, 5);
-		fancyBrick = new BlockProperties("fancybrick", Material.rock, 3, 5);
-		chiseled = new BlockProperties("chiseled", Material.rock, 3, 5);
+		chocolateBlock = new BlockPropertiesMeta("chocolateblock", Material.rock, 3, 5);
+		fruitBlock = new BlockPropertiesMeta("fruitblock", Material.rock, 3, 5);
+		nutBlock = new BlockPropertiesMeta("nutblock", Material.rock, 3, 5);
+		mintBlock = new BlockPropertiesMeta("mintblock", Material.rock, 3, 5);
+		cookiesCream = new BlockProperties("cookiescreamblock", Material.rock, 3, 5);
+		goldChocolate = new BlockProperties("goldchocolate", Material.rock, 3, 5);
+		hardChocolate = new BlockPropertiesMeta("hard", Material.rock, 3, 5);
+		etched = new BlockPropertiesMeta("etched", Material.rock, 3, 5);
+		brick = new BlockPropertiesMeta("brick", Material.rock, 3, 5);
+		roundBrick = new BlockPropertiesMeta("roundbrick", Material.rock, 3, 5);
+		smallBrick = new BlockPropertiesMeta("smallbrick", Material.rock, 3, 5);
+		fancyBrick = new BlockPropertiesMeta("fancybrick", Material.rock, 3, 5);
+		chiseled = new BlockPropertiesMeta("chiseled", Material.rock, 3, 5);
 
 		chocolateStair_default = new BlockStair(chocolateBlock, 0).setUnlocalizedName("chocolatestair_default");
 		chocolateStair_dark = new BlockStair(chocolateBlock, 0).setUnlocalizedName("chocolatestair_dark");
@@ -150,6 +155,8 @@ public class ChocolateBlocks {
 		GameRegistry.registerBlock(fruitBlock, itemBlockMeta.class, "fruitblock");
 		GameRegistry.registerBlock(nutBlock, itemBlockMeta.class ,"nutblock");
 		GameRegistry.registerBlock(mintBlock, itemBlockMeta.class ,"mintblock");
+		GameRegistry.registerBlock(cookiesCream, "cookiescreamblock");
+		GameRegistry.registerBlock(goldChocolate, "goldchocolate");
 		GameRegistry.registerBlock(hardChocolate, itemBlockMeta.class, "hard");
 		GameRegistry.registerBlock(etched, itemBlockMeta.class, "etched");
 
@@ -244,6 +251,11 @@ public class ChocolateBlocks {
 		Minecraft.getMinecraft().getRenderItem().getItemModelMesher().register(itemMintBlock, 4, new ModelResourceLocation(MainRegistry.MODID + ":" + "mint_raw", "inventory"));
 		ModelBakery.addVariantName(itemMintBlock, new String[]{"kjd:mint_default", "kjd:mint_dark", "kjd:mint_light", "kjd:mint_white", "kjd:mint_raw"});
 
+		Item itemCookieBlock = Item.getItemFromBlock(cookiesCream);
+		Minecraft.getMinecraft().getRenderItem().getItemModelMesher().register(itemCookieBlock, 0, new ModelResourceLocation(MainRegistry.MODID + ":" + "cookiescreamblock", "inventory"));
+		Item itemGoldChocolateBlock = Item.getItemFromBlock(goldChocolate);
+		Minecraft.getMinecraft().getRenderItem().getItemModelMesher().register(itemGoldChocolateBlock, 0, new ModelResourceLocation(MainRegistry.MODID + ":" + "goldchocolate", "inventory"));
+		
 		Item itemHard = Item.getItemFromBlock(hardChocolate);
 		Minecraft.getMinecraft().getRenderItem().getItemModelMesher().register(itemHard, 0, new ModelResourceLocation(MainRegistry.MODID + ":" + "hard_default", "inventory"));
 		Minecraft.getMinecraft().getRenderItem().getItemModelMesher().register(itemHard, 1, new ModelResourceLocation(MainRegistry.MODID + ":" + "hard_dark", "inventory"));

@@ -1,0 +1,15 @@
+{
+    "variants": {
+        "stage=0": { "model": "kjd:milkcauldron_milk" },
+        "stage=1": { "model": "kjd:milkcauldron_sugar1" },
+        "stage=2": { "model": "kjd:milkcauldron_sugar2" },
+        "stage=3": { "model": "kjd:milkcauldron_sugar3" },
+        "stage=4": { "model": "kjd:milkcauldron_sugar3" },
+        "stage=5": { "model": "kjd:milkcauldron_mix" },
+        "stage=6": { "model": "kjd:milkcauldron_chocolate1" },
+        "stage=7": { "model": "kjd:milkcauldron_chocolate2" },
+        "stage=8": { "model": "kjd:milkcauldron_chocolate2" },
+        "stage=9": { "model": "kjd:milkcauldron_chocolate2" },
+        "stage=10": { "model": "kjd:milkcauldron_lightmilk" }
+    }
+}

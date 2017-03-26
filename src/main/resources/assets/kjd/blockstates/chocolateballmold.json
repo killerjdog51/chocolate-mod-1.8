@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "stage=0": { "model": "kjd:chocolateball" },
+        "stage=1": { "model": "kjd:chocolateball" },
+        "stage=2": { "model": "kjd:chocolateball" },
+        "stage=3": { "model": "kjd:chocolateball" },
+        "stage=4": { "model": "kjd:chocolateball" },
+        "stage=5": { "model": "kjd:chocolateball_ready" }
+    }
+}

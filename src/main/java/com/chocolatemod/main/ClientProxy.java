@@ -2,6 +2,7 @@ package com.chocolatemod.main;
 
 import com.chocolatemod.init.ChocolateBlocks;
 import com.chocolatemod.init.ChocolateItems;
+import com.chocolatemod.init.SpecialBlocks;
 
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.resources.model.ModelBakery;
@@ -18,7 +19,7 @@ public class ClientProxy extends CommonProxy{
 	public void registerRenders() {
 		ChocolateBlocks.registerRenders();
 		ChocolateItems.registerRenders();
-		
+		SpecialBlocks.registerRenders();
 		
 	}
 

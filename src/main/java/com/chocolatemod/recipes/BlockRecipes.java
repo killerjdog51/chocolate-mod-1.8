@@ -140,6 +140,20 @@ public class BlockRecipes {
 				   GameRegistry.addShapelessRecipe(new ItemStack(ChocolateItems.mintbar, 9, 4), new Object[]{
 							   new ItemStack(ChocolateBlocks.mintBlock, 4, 4)
 				   });
+				   
+				   
+				   GameRegistry.addRecipe(new ItemStack(ChocolateBlocks.cookiesCream, 1), new Object[]{
+						   "BBB", "BBB", "BBB", 'B', new ItemStack(ChocolateItems.cookiesCream)
+					   });
+					   GameRegistry.addShapelessRecipe(new ItemStack(ChocolateItems.cookiesCream, 9), new Object[]{
+							   new ItemStack(ChocolateBlocks.cookiesCream)
+					   });
+					   GameRegistry.addRecipe(new ItemStack(ChocolateBlocks.goldChocolate, 1), new Object[]{
+							   "BBB", "BBB", "BBB", 'B', new ItemStack(ChocolateItems.goldChocolate)
+						   });
+						   GameRegistry.addShapelessRecipe(new ItemStack(ChocolateItems.goldChocolate, 9), new Object[]{
+								   new ItemStack(ChocolateBlocks.goldChocolate)
+						   });
 	   
 	 //Bricks
 	   GameRegistry.addRecipe(new ItemStack(ChocolateBlocks.brick, 4, 0), new Object[]{
